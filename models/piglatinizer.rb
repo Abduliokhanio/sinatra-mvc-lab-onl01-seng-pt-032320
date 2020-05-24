@@ -4,7 +4,7 @@ class PigLatinizer
     @text = text.downcase
   end
 
-  def hi
+  def test
    @text
   end
 
