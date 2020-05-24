@@ -5,7 +5,7 @@ class PigLatinizer
   end
 
   def hi
-   "hi"
+   @text
   end
 
 end
