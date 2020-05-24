@@ -5,7 +5,7 @@ class PigLatinizer
   end
 
   def test
-   @text.reverse
+   @text
   end
 
 end
